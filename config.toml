@@ -1,0 +1,49 @@
+baseURL = "http://ravishankar.com/"
+languageCode = "en-us"
+title = "Ravishankar Sivasubramaniam"
+theme = "minimal"
+googleAnalytics = ""
+
+[params]
+    author = "Ravishankar Sivasubramaniam"
+    description = "Data Engineering | Machine Learning | Python"
+    Location = "Chicago, IL"
+    githubUsername = "ravishan16"
+    accent = "black"
+    showBorder = false
+    backgroundColor = "white"
+    font = "Roboto" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "Atelier Forest Dark"
+    highlightLanguages = ["Python", "JavaScript", "JSON", "SQL"]
+    copyright = "Copyright &#xA9; 2018 Ravishankar Sivasubramaniam. All Rights Reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)"
+
+[[menu.main]]
+    url = "/"
+    name = "Ravi"
+    weight = 1
+
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:contact@ravishankars.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/ravishan16/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/ravishankar_s/"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/ravibi/"
+    name = "linkedin"
+    weight = 4
