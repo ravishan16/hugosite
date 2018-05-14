@@ -2,7 +2,7 @@ baseURL = "http://ravishankar.com/"
 languageCode = "en-us"
 title = "Ravishankar Sivasubramaniam"
 theme = "minimal"
-googleAnalytics = ""
+googleAnalytics = "UA-119195186-1"
 
 [params]
     author = "Ravishankar Sivasubramaniam"
