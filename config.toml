@@ -16,6 +16,7 @@ googleAnalytics = "UA-119195186-1"
     highlight = true
     highlightStyle = "Atelier Forest Dark"
     highlightLanguages = ["Python", "JavaScript", "JSON", "SQL"]
+    profilePic = "images/profile.JPG"
     copyright = "Copyright &#xA9; 2018 Ravishankar Sivasubramaniam. All Rights Reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)"
 
 [[menu.main]]
