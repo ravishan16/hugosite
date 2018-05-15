@@ -31,20 +31,20 @@ googleAnalytics = "UA-119195186-1"
 
 [[menu.icon]]
     url = "mailto:contact@ravishankars.com"
-    name = "envelope-o"
+    name = "fas fa-envelope"
     weight = 1
 
 [[menu.icon]]
     url = "https://github.com/ravishan16/"
-    name = "github"
+    name = "fab fa-github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/ravishankar_s/"
-    name = "twitter"
+    url = "https://flipboard.com/@ravishan/padikka-0cu079foz"
+    name = "fab fa-flipboard"
     weight = 3
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/ravibi/"
-    name = "linkedin"
+    name = "fab fa-linkedin"
     weight = 4
